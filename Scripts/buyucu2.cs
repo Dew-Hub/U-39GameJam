@@ -11,8 +11,6 @@ public class buyucu2 : MonoBehaviour
     {
         anim = GetComponent<Animator>();
     }
-
-    
     void Update()
     {
         if (hoca2.i == 5)
