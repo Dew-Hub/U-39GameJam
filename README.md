@@ -17,3 +17,8 @@
 7-) https://fabian-fuchs.itch.io/dark-castle-tileset
 
 8-) https://luizmelo.itch.io/wizard-pack
+
+## Yaptığımız Asset
+![cave](https://user-images.githubusercontent.com/54241620/230801220-829271d7-91f9-4056-baa5-860352deb9f4.png)
+
+5. Asset paketindeki assetler ile paint ile oluşturuldu.
