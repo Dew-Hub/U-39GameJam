@@ -21,7 +21,7 @@
 ## Düzenlediğimiz Asset
 ![cave](https://user-images.githubusercontent.com/54241620/230801220-829271d7-91f9-4056-baa5-860352deb9f4.png)
 
-5. Asset paketindeki assetler ile paint ile oluşturuldu.
+5. Asset paketindeki assetler ile Paint'le oluşturuldu.
 
 ## Kullanılan Ücretsiz Programlar
 Open Broadcaster Software (Ekran kaydı)
