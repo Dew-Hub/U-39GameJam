@@ -29,3 +29,6 @@ Open Broadcaster Software (Ekran kaydı)
 CapCut (Kurgu/Edit)
 
 Paint
+
+## Oyun Tanıtım Videosu
+https://www.youtube.com/watch?v=gnh3J-abpYI
